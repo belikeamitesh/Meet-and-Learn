@@ -1,0 +1,22 @@
+.verify_div{
+    border: 0px !important;
+    box-shadow: 0px !important;
+}
+
+.verify_div h1{
+    box-shadow: none;
+    border: none;
+    padding-top: 200px;
+}
+
+.verify_div p{
+    text-align: center;
+    padding-top: 30px;
+    font-size: 15px;
+}
+
+.verify_div div{
+    display: flex;
+    justify-content: center;
+    padding-top: 100px;
+}

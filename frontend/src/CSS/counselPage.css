@@ -1,0 +1,86 @@
+.counselPage {
+	display: flex;
+	width: 100vw;
+	/* height: 100vh; */
+	flex-direction: column;
+	overflow: hidden;
+}
+
+.counselPage-top {
+	padding-top: 40px;
+	height: 200px;
+	width: 100%;
+	justify-content: center;
+	align-items: center;
+	display: flex;
+}
+
+.heading {
+	font-family: "Bona Nova", serif;
+	padding: 20px;
+	font-size: 48px;
+}
+
+.mobile-img {
+	object-fit: contain;
+	height: 800px;
+	padding-right: 100px;
+}
+
+.counselPage-bot {
+	/* height: 70vh; */
+	width: 100vw;
+	background-image: url("../Components//images/background-counselPage.svg");
+	background-position: 0%;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.counselCont {
+	margin-right: auto;
+	margin-left: auto;
+	display: flex;
+	height: 100%;
+	justify-content: center;
+	align-items: center;
+}
+
+.desc-outline {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.counselPage-bot-right {
+	display: flex;
+	flex-direction: column;
+	height: 100%;
+	justify-content: center;
+	align-items: center;
+}
+
+.content-lines {
+	font-family: "Lora", serif;
+	line-height: 1.7;
+	font-size: 20px;
+	padding-left: 10px;
+}
+
+.tile-contents-wrapper {
+	width: max-content;
+	background-color: #175c62;
+	color: white;
+	margin: 0px 20px;
+}
+
+.tile-counsel-link {
+	text-decoration: none;
+	color: white;
+}
+
+.tile-contents {
+	font-family: "Lora";
+	padding: 15px;
+	font-size: 24px;
+	text-align: center;
+}

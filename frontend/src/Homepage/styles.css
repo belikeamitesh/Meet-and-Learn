@@ -1,0 +1,114 @@
+.card_div {
+    padding-top: 10px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.video-name {
+    opacity: 86%;
+    width: 100vw !important;
+    height: 25vw;
+    object-fit: cover;
+    padding: 0px;
+    margin: 0px;
+}
+
+.video_div {
+    width: 100vw;
+    padding: 0px;
+    margin: 0px;
+    display: flex;
+    object-fit: contain;
+    background-color: black;
+    z-index: -100;
+    position: absolute;
+}
+
+.homepage {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+
+.front-bot {
+    padding-top: -300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.bot-heading {
+    font-size: 20px;
+    font-family: "Cinzel";
+    padding: 100px;
+}
+
+.bot-desc {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: "Cinzel";
+    font-size: 36px;
+}
+
+.bot-desc>span {
+    padding-right: 25px;
+}
+
+.bot-image {
+    height: 100px;
+}
+
+.link-counsel {
+    text-decoration: none;
+    color: black;
+}
+
+.course1 {
+    font-size: 20px;
+    /* border: none; */
+    outline: none;
+    background-color: white;
+    color: black;
+    text-decoration: none;
+    padding: 25px;
+    border: 1px solid black;
+    border-right: none;
+}
+
+.course2 {
+    font-size: 20px;
+    /* border: none; */
+    outline: none;
+    background-color: white;
+    color: black;
+    text-decoration: none;
+    padding: 25px;
+    border: 1px solid black;
+    border-left: none;
+    border-right: none;
+}
+
+.course3 {
+    font-size: 20px;
+    /* border: none; */
+    outline: none;
+    background-color: white;
+    color: black;
+    text-decoration: none;
+    padding: 25px;
+    border: 1px solid black;
+    border-left: none;
+}
+
+.img {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    padding: 5px;
+}
+
+.a {
+    text-decoration: none;
+}

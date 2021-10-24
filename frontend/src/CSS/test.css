@@ -1,0 +1,40 @@
+.test {
+	padding-top: 200px;
+	text-align: center;
+	width: 100%;
+	align-items: center;
+	font-family: "Bona Nova";
+}
+
+.test h1 {
+	border: none;
+	box-shadow: none;
+}
+.test h4 {
+	padding-top: 20px;
+	padding-bottom: 50px;
+}
+
+.test div {
+	display: flex;
+	justify-content: center;
+	padding-bottom: 100px;
+}
+
+.test a {
+	text-decoration: none;
+	color: black;
+	background-color: #aacef7;
+	padding: 15px;
+	display: flex;
+	justify-content: center;
+	width: fit-content;
+	box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+	border-radius: 10px;
+}
+
+.test a:hover {
+	background-color: grey;
+	opacity: 0.8;
+	transition: 0.5s;
+}
