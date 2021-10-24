@@ -29,10 +29,10 @@ Learn - Connect - Consult
 ![clone images](/Login.jpeg)
 
 ## Mentorship
-![clone images](/service.jpeg)
+![clone images](/consult1.png)
 
 ## Mentorship Services
-![clone images](/paid.jpeg)
+![clone images](/consult.png)
 
 
 ### Made By
