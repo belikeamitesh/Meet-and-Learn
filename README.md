@@ -15,18 +15,18 @@ Learn - Connect - Consult
 ![clone images](/Logo.png)
 
 ## Home Page
-![clone images](/Home.jpeg)
+![clone images](/home1.png)
 
-![clone images](/Home1.jpeg)
+![clone images](/home.png)
 
 ## Chatroom
-![clone images](/talk.jpeg)
+![clone images](/talk.png)
 
 ## Verification
-![clone images](/Verify.jpeg)
+![clone images](/verify.png)
 
 ## Login Page
-![clone images](/Login.jpeg)
+![clone images](/login.png)
 
 ## Mentorship
 ![clone images](/consult1.png)
