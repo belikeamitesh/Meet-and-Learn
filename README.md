@@ -2,6 +2,9 @@
 
 Learn - Connect - Consult
 
+## Category Prize (Virtual Experiential Learning) Winning Project at Pitt Challenge 2021
+- Link to project : https://devpost.com/software/meet-and-learn
+
 ### How to start?
 - `cd frontend`
 - `npm i`
