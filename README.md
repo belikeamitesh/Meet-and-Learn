@@ -38,6 +38,6 @@ Learn - Connect - Consult
 ![clone images](/consult.png)
 
 
-### Made By
+### Contributors
 1. Amitesh Kumar
 2. Thivyaa Mohan
